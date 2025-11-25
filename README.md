@@ -22,7 +22,7 @@ Dataset: Supermarket Sales Dataset from Kaggle.
 │── 📁 python_notebooks/
 │     └── data_cleaning.ipynb
 │── 📁 powerbi/
-│     └── supermarket_sales_dashboard.pbix
+│     └── supermarket_dashboard.pbix
 │── 📁 screenshots/
 │── README.md (this file)
 ```
@@ -59,7 +59,6 @@ Performed using Pandas:
 - Rating distribution  
 - Sales by Hour  
 - Heatmap (Product Line vs Branch)  
-- Top 10 Best-selling products  
 
 ---
 
@@ -73,7 +72,7 @@ Performed using Pandas:
 ---
 
 ## 🚀 4. Dashboard Link  
-🔗 *Add your Power BI published link here*
+🔗 https://app.powerbi.com/links/SRu7ZH1d9J?ctid=44e3cf94-19c9-4e32-96c3-14f5bf01391a&pbi_source=linkShare
 
 ---
 
@@ -97,7 +96,7 @@ Performed using Pandas:
 ## 🧑‍💻 Author
 **Tashen Chamika**  
 Data Science Undergraduate  
-LinkedIn: *your link here*
+LinkedIn: www.linkedin.com/in/tashen-weerasinghe-6711aa347
 
 ---
 
